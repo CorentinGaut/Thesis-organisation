@@ -50,9 +50,9 @@ Cette thèse est en partie financé par le [labEx IMU](https://imu.universite-ly
 ## TO-DO
 ### Dossier de Soutenance
 - [X] Liste détaillée de publications avec les noms complets des auteurs et en précisant le type : revues, conférences, ateliers, etc.. En informatique, il faut avoir au moins une publication internationale de qualité.
-- [ ] Lettre de soutien pour la soutenance de la part du directeur de thèse. En informatique, cette lettre doit aussi appuyer la qualité de la publication du doctorant.
-- [ ] Lettre du directeur de thèse motivant le choix du jury et des rapporteurs.
-- [ ] L'avis du directeur de laboratoire.
+- [X] Lettre de soutien pour la soutenance de la part du directeur de thèse. En informatique, cette lettre doit aussi appuyer la qualité de la publication du doctorant.
+- [X] Lettre du directeur de thèse motivant le choix du jury et des rapporteurs.
+- [X] L'avis du directeur de laboratoire.
 - [X] Un résumé de la thèse.
 - [X] Mettre un lien ou votre manuscrit de thèse peut être consulté par la commission des thèses. On pourra utiliser un serveur de fichiers (par exemple https://filesender.renater.fr/) ou une page web.
 - [X] Un C.V. du candidat.
